@@ -1,4 +1,5 @@
-<h1 align="left">Hi, I'm Muditya 👋</h1>
+<h1 align="left">Hi, I'm Muditya 👋</h1> 
+📫 Reach me at **+91 8770428132**
 
 ### QA Automation Engineer + Full-Stack Developer
 
