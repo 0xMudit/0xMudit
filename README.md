@@ -1,12 +1,12 @@
-<h1 align="left">Hi, I'm Muditya 👋</h1> 
-📫 Reach me at **+91 8770428132**
+<h1 align="left">Hi, I'm Muditya 👋</h1>
+
+<a href="tel:+918770428132"><img src="https://img.shields.io/badge/Call-+91_87704_28132-black?style=flat&logo=phone&logoColor=white" /></a> <a href="mailto:mudityadev@gmail.com"><img src="https://img.shields.io/badge/Email-mudityadev@gmail.com-black?style=flat&logo=gmail&logoColor=white" /></a>
 
 ### QA Automation Engineer + Full-Stack Developer
 
 I combine a tester's skepticism with a developer's ownership — from API automation and CI/CD to production AI products. I build software that works, prove that it works, and help teams ship it with confidence.
 
 🔍 Currently exploring full-time **QA / SDET / Software Engineering** roles, and freelance projects.
-📫 Reach me at **mudityadev@gmail.com**
 
 ---
 
