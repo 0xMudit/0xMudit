@@ -16,7 +16,7 @@
 
 ## What I ship — all open source
 
-Production systems I designed, built, and operate, treated like real products: versioned, documented, and CI-gated.
+Production systems I designed, built, and operate, treated like real products: versioned, documented, and licensed.
 
 | Project | What it does | Stack |
 |---|---|---|
