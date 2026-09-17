@@ -1,10 +1,10 @@
 # Muditya Raghav
 
-**QA / SDET Engineer · Full-Stack Builder · Ex-Reliance Jio QA**
+**Software Engineer · Full-Stack & Systems**
 
-> Open to **remote QA/SDET and Software Engineering roles** — immediate joiner.
+> Building production software in public. Open to **remote software engineering roles** — immediate joiner.
 
-<sup>Adversarial by training, builder by habit. I automate quality until it's provable, then try to break it anyway: **80+ AI-assisted test cases shipped (+40% coverage), 35+ critical API bugs fixed (+25% stability), 3 verified PayPal bug-bounty reports.** Then I go build the systems I used to only test.</sup>
+<sup>I design, build, and operate full-stack systems — from a Mastercard/Visa-style payment switch in Go to Stripe-billed AI products and real-time backends. A QA and security background gives me a reliability-first, adversarial edge: I engineer systems *and* prove they hold up under attack.</sup>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mudityaraghav.vercel.app-black?style=flat-square)](https://mudityaraghav.vercel.app)
 [![Résumé](https://img.shields.io/badge/Résumé-PDF-orange?style=flat-square)](https://mudityaraghav.vercel.app/assets/MudityaRaghav_SDE_8770428132.pdf)
@@ -14,16 +14,16 @@
 
 ---
 
-## What I ship
+## What I ship — all open source
 
-Production systems I designed, built, and operate — tested the way I'd test for a job:
+Production systems I designed, built, and operate, treated like real products: versioned, documented, and CI-gated.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Clara Network**](https://github.com/0xMudit/Clara-Network) | Mastercard/Visa-style card payment network — ISO 8583 switch, double-entry ledger, HSM key management, ISO 20022 instant settlement | `Go` `ISO 8583/20022` `PostgreSQL` `Redis` `Docker` `HSM` |
-| [**Malcom**](https://malcom-lake.vercel.app) | AI research workspace — streamed LLM responses, cited web research, Stripe billing | `Next.js` `TypeScript` `Supabase` `Stripe` `LLM streaming` |
-| [**Jini**](https://jini-document-intelligence.vercel.app) | Local-first document intelligence — PDFs & invoices into searchable, cited answers | `React` `Express` `TypeScript` `SQLite` `Docker` |
-| [**Kingswork**](https://kingswork-ruddy.vercel.app) | Trading intelligence — dashboards, backtesting, paper portfolios, real-time alerts | `FastAPI` `React` `WebSockets` `SQLAlchemy` `JWT` |
+| [**Clara Network**](https://github.com/0xMudit/Clara-Network) | Mastercard/Visa-style card payment network — ISO 8583 switch, double-entry ledger, HSM key management, ISO 20022 settlement | `Go` `ISO 8583/20022` `PostgreSQL` `Redis` `Docker` `HSM` |
+| [**Malcom**](https://github.com/0xMudit/malcom-ai-research-assistant) | AI research workspace — streamed LLM responses, cited web research, Stripe billing | `Next.js` `TypeScript` `Supabase` `Stripe` |
+| [**Jini**](https://github.com/0xMudit/jini-document-intelligence) | Local-first document intelligence — PDFs & invoices into searchable, cited answers | `React` `Express` `TypeScript` `SQLite` `Docker` |
+| [**Kingswork**](https://github.com/0xMudit/Kingswork-Trading-Intelligence-Platform) | Trading intelligence — dashboards, backtesting, paper portfolios, real-time alerts | `FastAPI` `React` `WebSockets` `SQLAlchemy` |
 
 ## By the numbers
 
@@ -35,22 +35,26 @@ Production systems I designed, built, and operate — tested the way I'd test fo
 | Python/Pandas QA automation | **90% less** repetitive QA time |
 | Bug bounty (Cisco internship / HackerOne) | **3 verified** reports to PayPal |
 
-## The distinction
+## How I work
 
-QA taught me to think like an attacker; shipping products taught me to own the full lifecycle. So I don't hand off quality — I build systems, instrument them, CI-gate them, and measure them. **Numbers over vibes.**
+- **Own the whole lifecycle** — from ambiguous problem to deployed, monitored, maintained systems.
+- **Ship in public** — each product above is an open-source repo with docs, architecture, and near-term roadmap in its README.
+- **Reliability-first** — I design systems as an attacker would: auth, injection, failure modes, and data correctness before the happy path.
+- **Measure, don't guess** — every system I touch gets instrumented and CI-gated; quality is a number, not a vibe.
 
 ## Toolkit
 
-**QA / SDET** — Selenium · Cypress · Playwright · Postman · REST/API testing · Jenkins · AI-assisted test generation
 **Languages** — Python · TypeScript · JavaScript · Go · SQL
-**Backend** — FastAPI · Express · Next.js · REST · WebSockets · SQLAlchemy
-**Systems** — Docker · Linux · AWS EC2 · CI/CD · PostgreSQL · SQLite · MongoDB · Redis
+**Backend** — FastAPI · Express · Next.js · Go services · REST · WebSockets · SQLAlchemy
+**Systems** — Docker · Linux · AWS EC2 · CI/CD · PostgreSQL · SQLite · MongoDB · Redis · HSM/EMV · ISO 8583/20022
+**QA / SDET** — Selenium · Cypress · Playwright · Postman · Jenkins · AI-assisted test generation
 **Security** — Burp Suite · Nmap · DVWA · Juice Shop · Wireshark
 
 ## Experience
 
 | Role | Company | Period |
 |---|---|---|
+| Software Engineer (Independent) | Personal Engineering Practice | Apr 2025 – Present |
 | QA Associate Engineer | Reliance Jio Platforms | Dec 2023 – Mar 2025 |
 | Software Engineer Intern | Persistent Systems | Apr 2022 – Jun 2022 |
 | Cyber Security Intern | Cisco Network | Apr 2021 – Jul 2021 |
