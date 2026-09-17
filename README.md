@@ -1,56 +1,62 @@
-<h1 align="left">Hi, I'm Muditya 👋</h1>
+# Muditya Raghav
 
-<a href="tel:+918770428132"><img src="https://img.shields.io/badge/Call-+91_87704_28132-black?style=flat&logo=phone&logoColor=white" /></a> <a href="mailto:mudityadev@gmail.com"><img src="https://img.shields.io/badge/Email-mudityadev@gmail.com-black?style=flat&logo=gmail&logoColor=white" /></a>
+**QA / SDET Engineer · Full-Stack Builder · Ex-Reliance Jio QA**
 
-### QA Automation Engineer + Full-Stack Developer
+> Open to **remote QA/SDET and Software Engineering roles** — immediate joiner.
 
-I combine a tester's skepticism with a developer's ownership — from API automation and CI/CD to production AI products. I build software that works, prove that it works, and help teams ship it with confidence.
+<sup>Adversarial by training, builder by habit. I automate quality until it's provable, then try to break it anyway: **80+ AI-assisted test cases shipped (+40% coverage), 35+ critical API bugs fixed (+25% stability), 3 verified PayPal bug-bounty reports.** Then I go build the systems I used to only test.</sup>
 
-🔍 Currently exploring full-time **QA / SDET / Software Engineering** roles, and freelance projects.
+[![Portfolio](https://img.shields.io/badge/Portfolio-mudityaraghav.vercel.app-black?style=flat-square)](https://mudityaraghav.vercel.app)
+[![Résumé](https://img.shields.io/badge/Résumé-PDF-orange?style=flat-square)](https://mudityaraghav.vercel.app/assets/MudityaRaghav_SDE_8770428132.pdf)
+[![Book a call](https://img.shields.io/badge/Book_a_call-cal.com-green?style=flat-square)](https://cal.com/muditya-raghav-ai/60-min-meeting)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0xMudit-0A66C2?style=flat-square)](https://www.linkedin.com/in/0xmudit/)
+[![Email](https://img.shields.io/badge/Email-mudityadev@gmail.com-white?style=flat-square)](mailto:mudityadev@gmail.com)
 
 ---
 
-### 🚀 Live Products
+## What I ship
+
+Production systems I designed, built, and operate — tested the way I'd test for a job:
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Malcom](https://malcomman.duckdns.org/malcom/new)** | AI research workspace — streamed responses, document context, web research with sources, Stripe billing | `Next.js` `TypeScript` `Supabase` `Stripe` `LLM streaming` |
-| **[Jini](https://malcomman.duckdns.org/jini/)** | Local-first document intelligence — turns PDFs, spreadsheets, and invoices into searchable, cited answers | `React` `Express` `TypeScript` `SQLite` `Docker` `Vitest` |
-| **[Kingswork](https://malcomman.duckdns.org/kingswork/)** | Trading intelligence platform — dashboards, backtesting, paper portfolios, real-time alerts | `FastAPI` `React` `WebSockets` `JWT` `SQLAlchemy` |
+| [**Clara Network**](https://github.com/0xMudit/Clara-Network) | Mastercard/Visa-style card payment network — ISO 8583 switch, double-entry ledger, HSM key management, ISO 20022 instant settlement | `Go` `ISO 8583/20022` `PostgreSQL` `Redis` `Docker` `HSM` |
+| [**Malcom**](https://malcom-lake.vercel.app) | AI research workspace — streamed LLM responses, cited web research, Stripe billing | `Next.js` `TypeScript` `Supabase` `Stripe` `LLM streaming` |
+| [**Jini**](https://jini-document-intelligence.vercel.app) | Local-first document intelligence — PDFs & invoices into searchable, cited answers | `React` `Express` `TypeScript` `SQLite` `Docker` |
+| [**Kingswork**](https://kingswork-ruddy.vercel.app) | Trading intelligence — dashboards, backtesting, paper portfolios, real-time alerts | `FastAPI` `React` `WebSockets` `SQLAlchemy` `JWT` |
 
-🌐 Full portfolio: **[malcomman.duckdns.org/muditya](https://malcomman.duckdns.org/muditya/)**
+## By the numbers
 
----
+| Metric | Result |
+|---|---|
+| AI-assisted test automation @ Reliance Jio | 80+ test cases, **+40% coverage** |
+| API defect triage | 35+ critical bugs fixed, **+25% stability** |
+| Jenkins CI/CD pipeline | **20% faster** release cadence |
+| Python/Pandas QA automation | **90% less** repetitive QA time |
+| Bug bounty (Cisco internship / HackerOne) | **3 verified** reports to PayPal |
 
-### 📊 By the numbers
+## The distinction
 
-- **80+** automated test cases shipped via AI-assisted QA workflows
-- **800+** tracked defects handled, including 35+ critical API issues
-- **90%** reduction in repetitive QA time through Python automation
-- **3** verified PayPal bug bounty reports via HackerOne
+QA taught me to think like an attacker; shipping products taught me to own the full lifecycle. So I don't hand off quality — I build systems, instrument them, CI-gate them, and measure them. **Numbers over vibes.**
 
----
+## Toolkit
 
-### 🛠️ Toolkit
+**QA / SDET** — Selenium · Cypress · Playwright · Postman · REST/API testing · Jenkins · AI-assisted test generation
+**Languages** — Python · TypeScript · JavaScript · Go · SQL
+**Backend** — FastAPI · Express · Next.js · REST · WebSockets · SQLAlchemy
+**Systems** — Docker · Linux · AWS EC2 · CI/CD · PostgreSQL · SQLite · MongoDB · Redis
+**Security** — Burp Suite · Nmap · DVWA · Juice Shop · Wireshark
 
-**QA Automation:** Selenium · Cypress · Playwright · Postman · REST API testing
-**Languages:** Python · JavaScript · TypeScript · SQL
-**Product Engineering:** React · Next.js · Express · FastAPI · Django
-**Data & Delivery:** Docker · Jenkins · CI/CD · MongoDB · SQLite
-**Security:** Burp Suite · Nmap · secure sessions · rate limiting
+## Experience
 
----
+| Role | Company | Period |
+|---|---|---|
+| QA Associate Engineer | Reliance Jio Platforms | Dec 2023 – Mar 2025 |
+| Software Engineer Intern | Persistent Systems | Apr 2022 – Jun 2022 |
+| Cyber Security Intern | Cisco Network | Apr 2021 – Jul 2021 |
 
-### 💼 Experience
+B.Tech, Gyan Ganga Institute of Technology and Sciences (2019–2023) — CGPA 9.02/10.
 
-**QA Associate Engineer** @ Reliance Jio Platforms *(Dec 2023 – Mar 2025)*
-**Software Engineer Intern** @ Persistent Systems *(Apr 2022 – Jun 2022)*
-**Cyber Security Intern** @ Cisco Network *(Apr 2021 – Jul 2021)*
+## Find me
 
----
-
-<p align="left">
-  <a href="https://x.com/0xMudit"><img src="https://img.shields.io/badge/X-@0xMudit-black?style=flat&logo=x" /></a>
-  <a href="https://hackerone.com/0xmudit"><img src="https://img.shields.io/badge/HackerOne-0xmudit-black?style=flat&logo=hackerone" /></a>
-  <a href="https://malcomman.duckdns.org/muditya/"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat" /></a>
-</p>
+X: [@0xMudit](https://twitter.com/0xMudit) · HackerOne: [0xmudit](https://hackerone.com/0xmudit) · Live chat: [cal.com/muditya-raghav-ai](https://cal.com/muditya-raghav-ai/60-min-meeting) · Phone: +91 87704 28132
