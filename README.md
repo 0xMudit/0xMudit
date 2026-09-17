@@ -31,8 +31,6 @@ Open source, deployed, and documented. The live links are real deployments — c
 |---|---|---|---|
 | [**Cattle Re-ID**](https://github.com/0xMudit/cattle-re-identification) | Individual cattle identification from images — a zero-shot OSNet pipeline plus a supervised ViT-B/16 model over 514 identity classes; weights published to HuggingFace and fetched automatically | `Python` `PyTorch` `OSNet` `ViT-B/16` `YOLOv8` | [weights](https://huggingface.co/0xmudit/cattle-reid-weights) |
 | [**Sara Maps**](https://github.com/0xMudit/sara-maps-geospatial-backend) | Mapping platform backend built on open geospatial software — Valhalla routing and HMM map-matching, PostGIS geocoding, and a Rust vector-tile server | `TypeScript` `Fastify` `Valhalla` `PostGIS` `Redis` | |
-| [**Northstar**](https://github.com/0xMudit/northstar-ai-sales-agent) | Conversational sales agent built around prompt engineering — one system prompt drives chat and voice, handles English/Hindi/Hinglish, qualifies leads, and is grounded so it never invents prices or availability | `FastAPI` `Groq` `Prompt Engineering` | [demo](https://youtu.be/0C1q2DOWYJU) |
-| [**Artikate assessment**](https://github.com/0xMudit/artikate-backend-assessment) | Backend work sample — Django N+1 query diagnosis, a rate-limited async job queue on Celery/Redis, and multi-tenant data isolation, with 42 tests green from a clean environment | `Django` `DRF` `Celery` `Redis` | [walkthrough](https://youtu.be/D5U77JfwYvw) |
 
 ## By the numbers
 
