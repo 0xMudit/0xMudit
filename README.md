@@ -92,4 +92,4 @@ B.Tech, Gyan Ganga Institute of Technology and Sciences (2019–2023) — CGPA 9
 
 ## Find me
 
-[Portfolio](https://mudityaraghav.vercel.app) · X: [@0xMudit](https://twitter.com/0xMudit) · LinkedIn: [0xmudit](https://www.linkedin.com/in/0xmudit/) · HackerOne: [0xmudit](https://hackerone.com/0xmudit) · HuggingFace: [0xmudit](https://huggingface.co/0xmudit) · Live chat: [cal.com/muditya-raghav-ai](https://cal.com/muditya-raghav-ai/60-min-meeting) · Email: [mudityadev@gmail.com](mailto:mudityadev@gmail.com)
+[Portfolio](https://mudityaraghav.vercel.app) · Résumé: [PDF](https://mudityaraghav.vercel.app/assets/MudityaRaghav-Software-Engineer-Resume.pdf) · X: [@0xMudit](https://twitter.com/0xMudit) · LinkedIn: [0xmudit](https://www.linkedin.com/in/0xmudit/) · HackerOne: [0xmudit](https://hackerone.com/0xmudit) · HuggingFace: [0xmudit](https://huggingface.co/0xmudit) · Live chat: [cal.com/muditya-raghav-ai](https://cal.com/muditya-raghav-ai/60-min-meeting) · Email: [mudityadev@gmail.com](mailto:mudityadev@gmail.com)
