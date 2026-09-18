@@ -1,13 +1,13 @@
 # Muditya Raghav
 
-**Software Engineer · Full-Stack & Systems**
+**Software Engineer · Backend, Systems & Full-Stack**
 
 > I build production systems end to end, in public. Open to **remote software engineering roles** — immediate joiner.
 
 <sup>I work across the whole stack of a product: data model, API, auth, background jobs, deployment, and the failure modes nobody wants to think about. A QA and security background left me permanently suspicious — so I design systems the way an attacker would read them, and ship them with the tests and documentation to prove they hold up.</sup>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mudityaraghav.vercel.app-black?style=flat-square)](https://mudityaraghav.vercel.app)
-[![Résumé](https://img.shields.io/badge/Résumé-PDF-orange?style=flat-square)](https://mudityaraghav.vercel.app/assets/MudityaRaghav_SDE_8770428132.pdf)
+[![Résumé](https://img.shields.io/badge/Résumé-PDF-orange?style=flat-square)](https://mudityaraghav.vercel.app/assets/MudityaRaghav-Software-Engineer-Resume.pdf)
 [![Book a call](https://img.shields.io/badge/Book_a_call-cal.com-green?style=flat-square)](https://cal.com/muditya-raghav-ai/60-min-meeting)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0xMudit-0A66C2?style=flat-square)](https://www.linkedin.com/in/0xmudit/)
 [![Email](https://img.shields.io/badge/Email-mudityadev@gmail.com-white?style=flat-square)](mailto:mudityadev@gmail.com)
@@ -32,7 +32,24 @@ Open source, deployed, and documented. The live links are real deployments — c
 | [**Cattle Re-ID**](https://github.com/0xMudit/cattle-re-identification) | Individual cattle identification from images — a zero-shot OSNet pipeline plus a supervised ViT-B/16 model over 514 identity classes; weights published to HuggingFace and fetched automatically | `Python` `PyTorch` `OSNet` `ViT-B/16` `YOLOv8` | [weights](https://huggingface.co/0xmudit/cattle-reid-weights) |
 | [**Sara Maps**](https://github.com/0xMudit/sara-maps-geospatial-backend) | Mapping platform backend built on open geospatial software — Valhalla routing and HMM map-matching, PostGIS geocoding, and a Rust vector-tile server | `TypeScript` `Fastify` `Valhalla` `PostGIS` `Redis` | |
 
-## By the numbers
+## Open source contributions
+
+Fixes and features opened against upstream projects I depend on — each link is the actual pull request, not a fork I sat on.
+
+| Project | Contribution | State |
+|---|---|---|
+| [ToolJet](https://github.com/ToolJet/ToolJet) | [#17690](https://github.com/ToolJet/ToolJet/pull/17690) — fix: cloning an app with a custom data source fails with 422 | open |
+| [ToolJet](https://github.com/ToolJet/ToolJet) | [#17683](https://github.com/ToolJet/ToolJet/pull/17683) — fix: install-page plugin card size and upgrade-button hover visibility | open |
+| [Apache Maka](https://github.com/apache/maka) | [#3812](https://github.com/apache/maka/pull/3812) — fix(runtime): honor `isRetryable` in the provider retry classifier | open |
+| [Apache Maka](https://github.com/apache/maka) | [#3810](https://github.com/apache/maka/pull/3810) — feat(ci): add self-assign issue workflow | open |
+| [NetBird docs](https://github.com/netbirdio/docs) | [#946](https://github.com/netbirdio/docs/pull/946) — docs: forward UDP 443 for QUIC in external relay setup | open |
+| [Apache Maka](https://github.com/apache/maka) | [#3809](https://github.com/apache/maka/pull/3809) — fix(deps): resolve npm audit vulnerabilities | closed |
+| [PostHog](https://github.com/PostHog/posthog) | [#89557](https://github.com/PostHog/posthog/pull/89557) — feat(desktop): group MCP tools by read/write category in tool lists | closed |
+| [humanish](https://github.com/danielgwilson/humanish) | [#203](https://github.com/danielgwilson/humanish/pull/203) — feat: deterministic PII/PHI redaction gate | closed |
+
+## Career record
+
+Outcomes from employment and published research — not GitHub metrics.
 
 | Metric | Result |
 |---|---|
@@ -47,6 +64,7 @@ Open source, deployed, and documented. The live links are real deployments — c
 
 - **Own the whole lifecycle.** Every project above went from an ambiguous idea to a deployed system — architecture, backend, frontend, CI, and operations are all mine.
 - **Ship in public.** Open source, MIT-licensed where it applies, with architecture docs and READMEs written for a stranger who has to run it.
+- **Contribute upstream.** When a dependency is wrong, I fix it in the upstream repository instead of working around it locally.
 - **Reliability-first.** I design against auth bypass, injection, failure modes, and data correctness *before* the happy path — the security background is a permanent feature.
 - **Measure, don't guess.** Systems get instrumented and CI-gated; quality is a number, not a vibe.
 - **Write it down.** If a decision isn't documented, it isn't finished.
@@ -74,4 +92,4 @@ B.Tech, Gyan Ganga Institute of Technology and Sciences (2019–2023) — CGPA 9
 
 ## Find me
 
-X: [@0xMudit](https://twitter.com/0xMudit) · HackerOne: [0xmudit](https://hackerone.com/0xmudit) · HuggingFace: [0xmudit](https://huggingface.co/0xmudit) · Live chat: [cal.com/muditya-raghav-ai](https://cal.com/muditya-raghav-ai/60-min-meeting) · Phone: +91 87704 28132
+[Portfolio](https://mudityaraghav.vercel.app) · X: [@0xMudit](https://twitter.com/0xMudit) · LinkedIn: [0xmudit](https://www.linkedin.com/in/0xmudit/) · HackerOne: [0xmudit](https://hackerone.com/0xmudit) · HuggingFace: [0xmudit](https://huggingface.co/0xmudit) · Live chat: [cal.com/muditya-raghav-ai](https://cal.com/muditya-raghav-ai/60-min-meeting) · Email: [mudityadev@gmail.com](mailto:mudityadev@gmail.com)
