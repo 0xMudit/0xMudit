@@ -20,10 +20,15 @@ Open source, deployed, and documented. The live links are real deployments — c
 
 | Project | What it does | Stack | Live |
 |---|---|---|---|
+| [**Red Sky**](https://github.com/0xMudit/RedSky-Bot) | Grok Bot–style AI teammates that run on your own machine — a desktop shell around a locally spawned OpenCode server. Each agent owns its session, sandboxed workspace, durable memory, and cron routines. Auto Review holds destructive, expensive, or outbound work for human approval, and every finished run reports the tools it ran, the files it touched, and a workspace diff | `Electron` `React 19` `TypeScript` `OpenCode` `Vite` `Tailwind 4` | [source](https://github.com/0xMudit/RedSky-Bot) |
 | [**Clara Network**](https://github.com/0xMudit/clara-payment-network) | A Mastercard/Visa-style card payment network built end to end: scheme routing, an ISO 8583 authorization switch, an append-only double-entry ledger with reconciliation, EMV/ARQC verification, a token vault, a disputes engine, HSM key management, and 24/7 ISO 20022 instant settlement | `Go` `ISO 8583/20022` `PostgreSQL` `Redis` `Docker` `HSM` `EMV` | [console](https://clara-network.vercel.app) |
 | [**Malcom**](https://github.com/0xMudit/malcom-ai-research-assistant) | AI research workspace — streamed LLM responses, document-context retrieval, web research with cited sources, saved chats, and Stripe-backed subscriptions | `Next.js` `TypeScript` `Supabase` `Stripe` `RAG` | [app](https://malcom-lake.vercel.app) |
 | [**Kingswork**](https://github.com/0xMudit/kingswork-trading-intelligence) | Trading intelligence platform — market dashboards, backtesting, paper portfolios, and real-time alerts over JWT auth and WebSockets | `FastAPI` `React` `WebSockets` `SQLAlchemy` `JWT` | [app](https://kingswork-ruddy.vercel.app) |
 | [**Jini**](https://github.com/0xMudit/jini-document-intelligence) | Local-first document intelligence — PDFs, spreadsheets, and invoices into searchable, cited answers. Ranked retrieval runs with **no API key**, so the default workflow stays private and self-contained | `React` `TypeScript` `Express` `SQLite` `Docker` | [demo](https://jini-document-intelligence.vercel.app) |
+
+![Red Sky — agents on the left rail, a live run streaming into the workspace on the right](https://raw.githubusercontent.com/0xMudit/RedSky-Bot/main/docs/screenshots/dashboard.png)
+
+<sub>*Red Sky — every agent gets a session, a sandboxed workspace, memory, and a schedule. It is the project I have shipped most carefully: MIT-licensed, documented in full, CI-gated, and carrying a public backlog of 131 labelled issues.*</sub>
 
 ## Also shipping
 
@@ -31,21 +36,38 @@ Open source, deployed, and documented. The live links are real deployments — c
 |---|---|---|---|
 | [**Cattle Re-ID**](https://github.com/0xMudit/cattle-re-identification) | Individual cattle identification from images — a zero-shot OSNet pipeline plus a supervised ViT-B/16 model over 514 identity classes; weights published to HuggingFace and fetched automatically | `Python` `PyTorch` `OSNet` `ViT-B/16` `YOLOv8` | [weights](https://huggingface.co/0xmudit/cattle-reid-weights) |
 | [**Sara Maps**](https://github.com/0xMudit/sara-maps-geospatial-backend) | Mapping platform backend built on open geospatial software — Valhalla routing and HMM map-matching, PostGIS geocoding, and a Rust vector-tile server | `TypeScript` `Fastify` `Valhalla` `PostGIS` `Redis` | |
+| [**Groq Desktop Cat**](https://github.com/0xMudit/groq-desktop-ai-cat) | A tiny always-on-top Windows companion — reacts to your typing, follows the cursor, reminds you to stretch, and answers prompts through the Groq API | `Electron` `JavaScript` `Groq API` | |
+| [**Portfolio source**](https://github.com/0xMudit/mudityaraghav-portfolio) | The Next.js App Router source behind the site linked above — one typed data module drives every page | `Next.js` `TypeScript` `Tailwind v4` | [site](https://mudityaraghav.vercel.app) |
 
 ## Open source contributions
 
 Fixes and features opened against upstream projects I depend on — each link is the actual pull request, not a fork I sat on.
 
+**21 pull requests across 8 upstream projects** — 1 merged into OpenCV, 15 open, 5 closed.
+
 | Project | Contribution | State |
 |---|---|---|
+| [OpenCV](https://github.com/opencv/opencv) | [#29981](https://github.com/opencv/opencv/pull/29981) — doc: document the bit layout of `Mat::type()` | **merged** |
+| [OpenCV](https://github.com/opencv/opencv) | [#30015](https://github.com/opencv/opencv/pull/30015) — core: fix memory leak in `cv::glob()` on WinRT/_WIN32_WCE | open |
+| [OpenCV](https://github.com/opencv/opencv) | [#29999](https://github.com/opencv/opencv/pull/29999) — core: hal: add `v_select` support for 64-bit integer types | open |
+| [OpenCV](https://github.com/opencv/opencv) | [#29994](https://github.com/opencv/opencv/pull/29994) — core: fix `convertTo()` saturation for 64-bit and 32U sources on the vectorized path | open |
+| [OpenCV](https://github.com/opencv/opencv) | [#29992](https://github.com/opencv/opencv/pull/29992) — test: pin cameraMatrix/newCameraMatrix order in `initInverseRectificationMap` | open |
+| [OpenCV](https://github.com/opencv/opencv) | [#29982](https://github.com/opencv/opencv/pull/29982) — doc: add 5.x specific changes for Mat, MatShape, and 0d/1d Mat | open |
+| [OpenCV](https://github.com/opencv/opencv) | [#29980](https://github.com/opencv/opencv/pull/29980) — doc: correct camera matrix order in `initInverseRectificationMap` description | open |
+| [OpenCV](https://github.com/opencv/opencv) | [#29979](https://github.com/opencv/opencv/pull/29979) — doc: fix broken opencv.js link in the JS usage tutorial | open |
+| [Sentry](https://github.com/getsentry/sentry) | [#125004](https://github.com/getsentry/sentry/pull/125004) — fix(releases): normalize trailing slash in project URL param | open |
+| [peated](https://github.com/dcramer/peated) | [#1294](https://github.com/dcramer/peated/pull/1294) — feat(series): add aggregate rating to Series pages | open |
+| [peated](https://github.com/dcramer/peated) | [#1293](https://github.com/dcramer/peated/pull/1293) — feat(web): tint bottle preview with selected pour color | open |
 | [ToolJet](https://github.com/ToolJet/ToolJet) | [#17690](https://github.com/ToolJet/ToolJet/pull/17690) — fix: cloning an app with a custom data source fails with 422 | open |
 | [ToolJet](https://github.com/ToolJet/ToolJet) | [#17683](https://github.com/ToolJet/ToolJet/pull/17683) — fix: install-page plugin card size and upgrade-button hover visibility | open |
 | [Apache Maka](https://github.com/apache/maka) | [#3812](https://github.com/apache/maka/pull/3812) — fix(runtime): honor `isRetryable` in the provider retry classifier | open |
 | [Apache Maka](https://github.com/apache/maka) | [#3810](https://github.com/apache/maka/pull/3810) — feat(ci): add self-assign issue workflow | open |
 | [NetBird docs](https://github.com/netbirdio/docs) | [#946](https://github.com/netbirdio/docs/pull/946) — docs: forward UDP 443 for QUIC in external relay setup | open |
 | [Apache Maka](https://github.com/apache/maka) | [#3809](https://github.com/apache/maka/pull/3809) — fix(deps): resolve npm audit vulnerabilities | closed |
+| [PostHog](https://github.com/PostHog/posthog) | [#89642](https://github.com/PostHog/posthog/pull/89642) — feat(desktop): add configurable branch prefix setting | closed |
 | [PostHog](https://github.com/PostHog/posthog) | [#89557](https://github.com/PostHog/posthog/pull/89557) — feat(desktop): group MCP tools by read/write category in tool lists | closed |
 | [humanish](https://github.com/danielgwilson/humanish) | [#203](https://github.com/danielgwilson/humanish/pull/203) — feat: deterministic PII/PHI redaction gate | closed |
+| [humanish](https://github.com/danielgwilson/humanish) | [#202](https://github.com/danielgwilson/humanish/pull/202) — docs: add state-driven local-app example | closed |
 
 ## Career record
 
@@ -76,6 +98,7 @@ Outcomes from employment and published research — not GitHub metrics.
 **Systems** — Docker · Linux · AWS EC2 · CI/CD · PostgreSQL · SQLite · MongoDB · Redis · Supabase
 **Domain** — ISO 8583 · ISO 20022 · Double-entry ledgers · HSM/EMV · JWT auth · Stripe billing
 **ML** — PyTorch · OSNet · ViT · YOLOv8 · HuggingFace
+**Desktop / Agent runtimes** — Electron · Vite · esbuild · node:test · OpenCode · stdio tool protocols
 **QA / SDET** — Selenium · Cypress · Playwright · Postman · Jenkins
 **Security** — Burp Suite · Nmap · Wireshark · DVWA · Juice Shop
 
