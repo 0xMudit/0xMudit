@@ -1,8 +1,6 @@
-<div align="center">
-
 # I built a Mastercard-style payment network. Solo. 💳
 
-### Hi, I'm Muditya Raghav: a software engineer who started in QA, so I build systems the way an attacker would read them.
+Hi, I'm Muditya Raghav: a software engineer who started in QA, so I build systems the way an attacker would read them.
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
@@ -22,8 +20,6 @@
 [Portfolio](https://mudityaraghav.vercel.app) ·
 [Résumé](https://mudityaraghav.vercel.app/assets/MudityaRaghav-Software-Engineer-Resume.pdf) ·
 [Email](mailto:mudityadev@gmail.com)
-
-</div>
 
 ---
 
@@ -50,10 +46,6 @@ Live pull requests to **ToolJet**, **Apache Maka**, and **NetBird docs**. When a
 
 ---
 
-<div align="center">
-
 *If it isn't documented, tested, and deployed, I don't call it finished.*
 
 📧 [mudityadev@gmail.com](mailto:mudityadev@gmail.com)
-
-</div>
