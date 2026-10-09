@@ -27,10 +27,11 @@ Hi, I'm Muditya Raghav: a software engineer who started in QA, so I build system
 
 | 🚀 What I shipped | 🔥 Why it matters |
 |---|---|
+| **[Red Sky](https://github.com/0xMudit/redsky-agents)** | AI teammates that run entirely on your machine — each agent gets its own session, workspace, and memory |
 | **[Clara Network](https://clara-network.vercel.app)** | A card payment network end to end: ISO 8583 auth switch, double-entry ledger, EMV/ARQC verification, HSM key management, and 24/7 ISO 20022 instant settlement |
 | **[Kingswork](https://kingswork-ruddy.vercel.app)** | Trading platform with backtesting, paper portfolios, and real-time alerts over WebSockets and JWT auth |
-| **Malcom** | AI research workspace with streamed LLM answers, RAG, cited web research, and Stripe subscriptions |
-| **Jini** | Local-first document intelligence: ask PDFs, sheets, and invoices questions with no API key needed |
+| **[Malcom](https://malcom-lake.vercel.app)** | AI research workspace with streamed LLM answers, RAG, cited web research, and Stripe subscriptions |
+| **[Jini](https://jini-document-intelligence.vercel.app)** | Local-first document intelligence: ask PDFs, sheets, and invoices questions with no API key needed |
 
 ## 📈 Results
 
