@@ -34,9 +34,6 @@ Open source, deployed, and documented. The live links are real deployments — c
 
 | Project | What it does | Stack | Live |
 |---|---|---|---|
-| [**Cattle Re-ID**](https://github.com/0xMudit/cattle-re-identification) | Individual cattle identification from images — a zero-shot OSNet pipeline plus a supervised ViT-B/16 model over 514 identity classes; weights published to HuggingFace and fetched automatically | `Python` `PyTorch` `OSNet` `ViT-B/16` `YOLOv8` | [weights](https://huggingface.co/0xmudit/cattle-reid-weights) |
-| [**Sara Maps**](https://github.com/0xMudit/sara-maps-geospatial-backend) | Mapping platform backend built on open geospatial software — Valhalla routing and HMM map-matching, PostGIS geocoding, and a Rust vector-tile server | `TypeScript` `Fastify` `Valhalla` `PostGIS` `Redis` | |
-| [**Groq Desktop Cat**](https://github.com/0xMudit/groq-desktop-ai-cat) | A tiny always-on-top Windows companion — reacts to your typing, follows the cursor, reminds you to stretch, and answers prompts through the Groq API | `Electron` `JavaScript` `Groq API` | |
 | [**Portfolio source**](https://github.com/0xMudit/portfolio-site) | The Next.js App Router source behind the site linked above — one typed data module drives every page | `Next.js` `TypeScript` `Tailwind v4` | [site](https://mudityaraghav.vercel.app) |
 
 ## Open source contributions
