@@ -1,10 +1,8 @@
 <div align="center">
 
-# Muditya Raghav
+# I built a Mastercard-style payment network. Solo. 💳
 
-**Software Developer · Immediate Joiner**
-
-Started in QA. Now I build the systems, not just test them.
+### Hi, I'm Muditya Raghav: a software engineer who started in QA, so I build systems the way an attacker would read them.
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
@@ -18,28 +16,44 @@ Started in QA. Now I build the systems, not just test them.
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
----
+**🟢 Open to remote roles · Immediate joiner**
 
-### Impact so far
-
-- Cut QA cycles **90%** via Python automation @ Reliance Jio
-- Fixed **35+ critical API bugs** → **+25% reliability**
-- Jenkins CI/CD → **20% faster releases**
-- Shipped full-stack AI products — RAG, LLM streaming, real-time trading infra
-- Built a **Mastercard-style payment network** — ISO 8583, HSM, settlement engine
-- Cybersecurity intern — security-first mindset
-
-### Built
-
-1. **Clara Payment Network** (Mastercard-style) — [clara-network.vercel.app](https://clara-network.vercel.app)
-2. **Trading Platform** — [kingswork-ruddy.vercel.app](https://kingswork-ruddy.vercel.app)
-
----
-
+[**📅 Book a call**](https://cal.com/muditya-raghav-ai/60-min-meeting) ·
 [Portfolio](https://mudityaraghav.vercel.app) ·
-[Resume](https://mudityaraghav.vercel.app/assets/MudityaRaghav-Software-Engineer-Resume.pdf) ·
-[Book a call](https://cal.com/muditya-raghav-ai/60-min-meeting)
+[Résumé](https://mudityaraghav.vercel.app/assets/MudityaRaghav-Software-Engineer-Resume.pdf) ·
+[Email](mailto:mudityadev@gmail.com)
 
-📧 mudityadev@gmail.com · 📱 +91 877 042 8132
+</div>
+
+---
+
+## ⚡ Proof, not promises
+
+| 🚀 What I shipped | 🔥 Why it matters |
+|---|---|
+| **[Clara Network](https://clara-network.vercel.app)** | A card payment network end to end: ISO 8583 auth switch, double-entry ledger, EMV/ARQC verification, HSM key management, and 24/7 ISO 20022 instant settlement |
+| **[Kingswork](https://kingswork-ruddy.vercel.app)** | Trading platform with backtesting, paper portfolios, and real-time alerts over WebSockets and JWT auth |
+| **Malcom** | AI research workspace with streamed LLM answers, RAG, cited web research, and Stripe subscriptions |
+| **Jini** | Local-first document intelligence: ask PDFs, sheets, and invoices questions with no API key needed |
+
+## 📈 Results
+
+- 🧪 **90%** less repetitive QA time through Python automation at Reliance Jio
+- 🐛 **35+ critical API bugs** fixed, giving **+25% stability**
+- ⚙️ **Jenkins CI/CD** pipeline that made releases **20% faster**
+- 🛡️ **3 verified bug bounty reports** to PayPal via HackerOne
+- 📄 **2 published research papers** on payment systems and low-light activity detection
+
+## 🤝 Open source
+
+Live pull requests to **ToolJet**, **Apache Maka**, and **NetBird docs**. When a dependency is broken, I fix it upstream.
+
+---
+
+<div align="center">
+
+*If it isn't documented, tested, and deployed, I don't call it finished.*
+
+📧 [mudityadev@gmail.com](mailto:mudityadev@gmail.com)
 
 </div>
