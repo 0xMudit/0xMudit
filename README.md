@@ -1,4 +1,4 @@
-# I built a Mastercard-style payment network. Solo. 💳
+# I design systems the way an attacker would break them.
 
 Hi, I'm Muditya Raghav: a software engineer who started in QA, so I build systems the way an attacker would read them.
 
